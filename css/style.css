@@ -1,0 +1,35 @@
+/*
+Template Name: Aytor
+Version: 1.0.0
+Author: Aytor
+
+
+Table of Content
+===========================
+   ********Home Page*********
+   1) Navigation Section
+   2) Banner Section
+   3) Feature Section
+*/
+
+/* Common Css Start */
+h1,h2,h3,h4,h5,h6,
+p,
+small,span,
+ol,ul{
+   margin: 0;
+   padding: 0;
+}
+ol,ul{
+   list-style-type: none;
+}
+a{
+   text-decoration: none;
+}
+/* //Common Css End */
+
+
+/* Navigation Section Css Start */
+
+
+/* //Navigation Section Css End */
